@@ -1,0 +1,4 @@
+# Simulation output and waveform files
+*.out
+*.vcd
+*.vvp
